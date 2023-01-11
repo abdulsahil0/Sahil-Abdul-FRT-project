@@ -6,7 +6,7 @@ This is a web based application developed for education related based website in
 ### This web based Inculcation application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* -  https://jolly-bay-0a2188900.2.azurestaticapps.net
 
 *Project Demo Video link* -
 
@@ -471,6 +471,8 @@ This is a web based application developed for education related based website in
 
 ### Azure Static webapps  -
 
+
+![Screenshot (305)](https://user-images.githubusercontent.com/121281597/211754341-bf459f21-59b2-4817-9b73-6db47dd0c946.png)
 
 
 
