@@ -8,7 +8,7 @@ This is a web based application developed for education related based website in
 
 *Project Link* -  https://jolly-bay-0a2188900.2.azurestaticapps.net
 
-*Project Demo Video link* -
+*Project Demo Video link* - https://youtu.be/f4TiT5st_n4
 
 
 
